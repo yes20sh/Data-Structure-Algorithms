@@ -19,6 +19,7 @@ This repository contains basic data structure and algorithm questions to help yo
 13. [Write a Python program to check for Leap Year](Basic_interview-questions/13-Q.py).
 14. [Write a Python program to find the Average Numbers in a List](Basic_interview-questions/14-Q.py).
 15. [Write a Python program to Merge Two Sorted Lists](Basic_interview-questions/15-Q.py).
+16. [ Write a Python program to Remove Duplicates from a String.](Basic_interview-questions/16-Q.py).
 
 ## Reference
 

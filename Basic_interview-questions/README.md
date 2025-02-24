@@ -19,5 +19,7 @@ This folder contains basic data structure and algorithm questions to help you ge
 13. Write a Python program to check for Leap Year.
 14. Write a Python program to find the Average Numbers in a List.
 15. Write a Python program to Merge Two Sorted Lists.
+16. Write a Python program to Remove Duplicates from a String.
+
 ## Reference
 https://www.analyticsvidhya.com/articles/python-coding-interview-questions/ 
