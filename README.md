@@ -19,7 +19,18 @@ This repository contains basic data structure and algorithm questions to help yo
 13. [Write a Python program to check for Leap Year](Basic_interview-questions/13-Q.py).
 14. [Write a Python program to find the Average Numbers in a List](Basic_interview-questions/14-Q.py).
 15. [Write a Python program to Merge Two Sorted Lists](Basic_interview-questions/15-Q.py).
-16. [ Write a Python program to Remove Duplicates from a String.](Basic_interview-questions/16-Q.py).
+16. [Write a Python program to Remove Duplicates from a String](Basic_interview-questions/16-Q.py).
+17. [Write a Python program to Check for Perfect Numbers](Basic_interview-questions/17-Q.py).
+18. [Write a Python program to Find the Maximum Difference between Two Elements in a List](Basic_interview-questions/18-Q.py).
+19. [Write a Python program to check if a Number is Even or Odd](Basic_interview-questions/19-Q.py).
+20. [Write a Python program to Count Words in a Sentence](Basic_interview-questions/20-Q.py).
+21. [Write a Python program to Convert Decimal to Binary](Basic_interview-questions/21-Q.py).
+22. [Write a Python program to Find Second Largest Element in a List](Basic_interview-questions/22-Q.py).
+23. [Write a Python program to Reverse Words in a String](Basic_interview-questions/23-Q.py).
+24. [Write a Python program to check if a Number is a Prime Factor](Basic_interview-questions/24-Q.py).
+25. [Write a Python program to check if a Number is a Power of Two](Basic_interview-questions/25-Q.py).
+26. [Write a Python program to convert Celsius to Fahrenheit](Basic_interview-questions/26-Q.py).
+27. [Write a Python program to calculate the LCM (Least Common Multiple) of Two Numbers](Basic_interview-questions/27-Q.py).
 
 ## Reference
 
