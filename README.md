@@ -1,8 +1,12 @@
-# Basic Interview Questions
+# Interview Questions Repository
 
-This repository contains basic data structure and algorithm questions to help you get started with fundamental concepts in programming.
+This repository contains a collection of basic and array-related coding problems to help you prepare for technical interviews. Each problem is implemented in Python and is designed to test your understanding of fundamental programming concepts and data structures.
 
-## Questions
+## Basic Interview Questions
+
+This folder contains basic data structure and algorithm questions.
+
+### Questions
 
 1. [Write a Python program to Reverse a String](Basic_interview-questions/1-Q.py).
 2. [Write a Python program to Check Palindrome](Basic_interview-questions/2-Q.py).
@@ -32,6 +36,17 @@ This repository contains basic data structure and algorithm questions to help yo
 26. [Write a Python program to convert Celsius to Fahrenheit](Basic_interview-questions/26-Q.py).
 27. [Write a Python program to calculate the LCM (Least Common Multiple) of Two Numbers](Basic_interview-questions/27-Q.py).
 
-## Reference
+## Array Interview Questions
 
-https://www.analyticsvidhya.com/articles/python-coding-interview-questions/
+This folder contains array-related coding problems.
+
+### Questions
+
+1. [Find the Second Largest Number in an Array](Array_Interview_questions/Easy/1-Q.py).
+2. [Find the Third Largest Number in an Array](Array_Interview_questions/Easy/2-Q.py).
+3. [Rotate the array elements to the left by d positions](Array_Interview_questions/Easy/3-Q.py).
+
+## References
+
+- [Basic Interview Questions](https://www.analyticsvidhya.com/articles/python-coding-interview-questions/)
+- [Array Interview Questions](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
